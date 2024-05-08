@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EqualPlayer", "EqualPlayer\EqualPlayer.csproj", "{43AAA2A3-3ADF-4F60-924D-3F968A958C61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower1", "FilePower1\FilePower1.csproj", "{E7BD6A86-4BB0-4913-92D5-875087B886AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{43AAA2A3-3ADF-4F60-924D-3F968A958C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43AAA2A3-3ADF-4F60-924D-3F968A958C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43AAA2A3-3ADF-4F60-924D-3F968A958C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BD6A86-4BB0-4913-92D5-875087B886AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BD6A86-4BB0-4913-92D5-875087B886AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BD6A86-4BB0-4913-92D5-875087B886AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BD6A86-4BB0-4913-92D5-875087B886AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
