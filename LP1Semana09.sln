@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower1", "FilePower1\Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FilePower2", "FilePower2\FilePower2.csproj", "{7383863B-A489-463F-B52B-2C56BFACED79}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntCollections", "IntCollections\IntCollections.csproj", "{BBA3C032-C024-4730-86DF-BF13586FD697}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{7383863B-A489-463F-B52B-2C56BFACED79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7383863B-A489-463F-B52B-2C56BFACED79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7383863B-A489-463F-B52B-2C56BFACED79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBA3C032-C024-4730-86DF-BF13586FD697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBA3C032-C024-4730-86DF-BF13586FD697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBA3C032-C024-4730-86DF-BF13586FD697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBA3C032-C024-4730-86DF-BF13586FD697}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
